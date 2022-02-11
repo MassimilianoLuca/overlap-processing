@@ -1,4 +1,4 @@
-# Code for: On the Generalization Capability of Next-Location Predictors
+# Code for: Trajectory Test-Train Overlap in Next-Location Prediction Datasets
 
 To successfully run the code, you need the following dependencies:
 
